@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
