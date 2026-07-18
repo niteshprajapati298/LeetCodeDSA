@@ -16,10 +16,12 @@ public:
 
         // Pick
         ds.push_back(candidates[index]);
-        solve(index, target - candidates[index], candidates, ans, ds);
+        target = target - candidates[index];
+        solve(index, target, candidates, ans, ds);
 
         // Backtrack
         ds.pop_back();
+        target = target + candidates[index];
 
         // Not Pick
         solve(index + 1, target, candidates, ans, ds);
