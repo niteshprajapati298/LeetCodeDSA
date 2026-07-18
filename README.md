@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0039-combination-sum) |
 | [0169-majority-element](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0287-find-the-duplicate-number) |
 | [0912-sort-an-array](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0912-sort-an-array) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
