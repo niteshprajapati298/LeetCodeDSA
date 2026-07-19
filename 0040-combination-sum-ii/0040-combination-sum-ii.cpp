@@ -1,8 +1,10 @@
 class Solution {
 public:
     void solve(int index, int target , vector<int>&candidates, vector<vector<int>>&ans, vector<int>ds){
+        if(target < 0 ) return;
         if(target==0){
             ans.push_back(ds);
+            return;
         }
         for(int i = index ; i < candidates.size(); i++){
             if(i > index && candidates[i] == candidates[i-1]) continue;
