@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0287-find-the-duplicate-number) |
 | [0912-sort-an-array](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0912-sort-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
@@ -66,4 +68,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
