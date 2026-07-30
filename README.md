@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0046-permutations) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0046-permutations) |
@@ -78,5 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
