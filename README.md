@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0287-find-the-duplicate-number) |
+| [0486-predict-the-winner](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0486-predict-the-winner) |
 | [0912-sort-an-array](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -83,4 +84,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0486-predict-the-winner) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
