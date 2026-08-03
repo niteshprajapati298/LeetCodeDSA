@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0169-majority-element) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0912-sort-an-array) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
