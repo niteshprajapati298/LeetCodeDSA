@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0053-maximum-subarray) |
+| [0131-palindrome-partitioning](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0486-predict-the-winner) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
