@@ -109,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
