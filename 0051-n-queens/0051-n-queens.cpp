@@ -1,34 +1,40 @@
 class Solution {
 public:
-   bool isSafe(vector<string>& board, int row, int col, int n) {
+    bool isSafe(vector<string>& board, int row, int col, int n) {
 
-    // Check upper cells in same column
-    for (int i = row - 1; i >= 0; i--) {
-        if (board[i][col] == 'Q')
-            return false;
+        // Check upper cells in same column
+        for (int i = row - 1; i >= 0; i--) {
+            if (board[i][col] == 'Q')
+                return false;
+        }
+
+        int i = row - 1;
+        int j = col + 1;
+
+        while (i >= 0 && j < n) {
+
+            if (board[i][j] == 'Q')
+                return false;
+
+            i--;
+            j++;
+        }
+
+         i = row - 1;
+         j = col - 1;
+
+        while (i >= 0 && j >= 0) {
+
+            if (board[i][j] == 'Q')
+                return false;
+
+            i--;
+            j--;
+        }
+
+        return true;
     }
-
-    // Check upper-right diagonal
-    for (int i = row - 1, j = col + 1;
-         i >= 0 && j < n;
-         i--, j++) {
-
-        if (board[i][j] == 'Q')
-            return false;
-    }
-
-    // Check upper-left diagonal
-    for (int i = row - 1, j = col - 1;
-         i >= 0 && j >= 0;
-         i--, j--) {
-
-        if (board[i][j] == 'Q')
-            return false;
-    }
-
-    return true;
-}
-    void solve(vector<string> board, vector<vector<string>>&ans, int row,
+    void solve(vector<string> board, vector<vector<string>>& ans, int row,
                int n) {
         if (row >= n) {
             ans.push_back(board);
