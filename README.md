@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0040-combination-sum-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0486-predict-the-winner) |
@@ -108,9 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0131-palindrome-partitioning) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0051-n-queens) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/niteshprajapati298/LeetCodeDSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
