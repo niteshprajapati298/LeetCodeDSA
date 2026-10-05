@@ -12,26 +12,31 @@
  */
 class Solution {
 public:
-    int findHeight(TreeNode* root) {
+    int findHeight(TreeNode* root,int &valid) {
         if (root == nullptr) {
             return 0;
         }
-        return 1 + max(findHeight(root->left), findHeight(root->right));
+        int left = findHeight(root->left,valid);
+        int right = findHeight(root->right,valid);
+        if(abs(left-right)>1) valid = 0;
+        return 1 + max(left,right);
     }
     bool isBalanced(TreeNode* root) {
-        if (root == nullptr)
-            return true;
-        int leftHeight = findHeight(root->left);
-        int rightHeight = findHeight(root->right);
-        int heightDiff = leftHeight - rightHeight;
-        cout << "Left Height is " << leftHeight << " Right Height is "
-             << rightHeight << " at root Node " << root->val << endl;
-        if (heightDiff == 1 || heightDiff == -1 || heightDiff == 0) {
-            bool leftBalanced = isBalanced(root->left);
-            bool rightBalanced = isBalanced(root->right);
-            return leftBalanced && rightBalanced;
-        }
-        cout << " Reached At Line 32" << endl;
-        return false;
+         int valid = 1;
+         int height = findHeight(root,valid);
+         if(valid ==1 ) return true;
+         return false;
+
+        // int leftHeight = findHeight(root->left);
+        // int rightHeight = findHeight(root->right);
+        // int heightDiff = leftHeight - rightHeight;
+        // cout << "Left Height is " << leftHeight << " Right Height is "
+        //      << rightHeight << " at root Node " << root->val << endl;
+        // if (heightDiff == 1 || heightDiff == -1 || heightDiff == 0) {
+        //     bool leftBalanced = isBalanced(root->left);
+        //     bool rightBalanced = isBalanced(root->right);
+        //     return leftBalanced && rightBalanced;
+        // }
+        // return false;
     }
 };
