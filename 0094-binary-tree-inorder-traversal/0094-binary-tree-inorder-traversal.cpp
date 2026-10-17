@@ -12,36 +12,35 @@
  */
 class Solution {
 public:
-    //    void traverse(TreeNode* root, vector<int>&ans){
-    //          if(root==nullptr) return;
-    //          traverse(root->left,ans);
-    //          ans.push_back(root->val);
-    //          traverse(root->right,ans);
-    //    }
     vector<int> inorderTraversal(TreeNode* root) {
-        // vector<int> ans;
-        // traverse(root,ans);
-        // return ans;
-
-        vector<int> inorder;
+        vector<int> ans;
         if (root == nullptr)
-            return inorder;
-
+            return ans;
         stack<TreeNode*> st;
-        TreeNode* node = root;
-        while (true) {
-            if (node != nullptr) {
-                st.push(node);
-                node = node->left;
+        stack<bool> visited;
+        st.push(root);
+        visited.push(0);
+        while (!st.empty()) {
+            TreeNode* temp = st.top();
+            bool flag = visited.top();
+            visited.pop();
+            st.pop();
+            if (!flag) {
+                if (temp->right!=nullptr) {
+                    st.push(temp->right);
+                    visited.push(0);
+                }
+                st.push(temp);
+                visited.push(1);
+                if (temp->left!=nullptr) {
+                    st.push(temp->left);
+                    visited.push(0);
+                }
             }
             else {
-                if(st.empty()==true) break;
-                node = st.top();
-                st.pop();
-                inorder.push_back(node->val);
-                 node=node->right;
+                ans.push_back(temp->val);
             }
         }
-        return inorder;
+        return ans;
     }
 };
